@@ -46,7 +46,6 @@
               <ul class="dropdown-menu" role="menu">
                 <li><a href="{{url('homepage')}}about">About ICFS</a></li>
                 <li><a href="{{url('homepage')}}icic">About ICIC</a></li>
-                <li><a href="{{url('homepage')}}media">Media</a></li>
                 <li><a href="{{url('homepage')}}team">The Team</a></li>
               </ul>
             </li>
